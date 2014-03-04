@@ -1,0 +1,3 @@
+This project contains the sources for the HTML5/JSF article that is to be published in the May/June issue of Java Magazine.
+
+The project contains examples of how to use JSF components, HTML5 elements, or both, within a traditional JavaServer Faces application.  It also contains an example for developing a chat room that utilizes WebSockets along with JSF and HTML5.
